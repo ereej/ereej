@@ -1,7 +1,7 @@
 # Hello, welcome to my Github! 👋 I'm Erij 🚀💻
 
 <div style="text-align: center; background-color: #ffffff; padding: 20px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
-  <img src="banner-01.jpg" alt="Your Image Alt Text" style="width: 100%; border-radius: 8px;" />
+  <img src="ery-banner-01.jpg" alt="Your Image Alt Text" style="width: 100%; border-radius: 8px;" />
 </div>
 
 
