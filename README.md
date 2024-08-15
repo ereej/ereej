@@ -15,7 +15,7 @@
 
 ### SKILLS 💻
 - **Programming Languages:** 
-  <br> ![TypeScript Icon](https://img.icons8.com/color/48/000000/typescript.png) ![Python Icon]([https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png](https://img.icons8.com/?size=100&id=13441&format=png&color=000000))
+  <br> ![TypeScript Icon](https://img.icons8.com/color/48/000000/typescript.png) ![Python Icon](https://img.icons8.com/?size=100&id=13441&format=png&color=000000)
 - **Frontend Development:** 
   <br> ![HTML Icon](https://img.icons8.com/color/48/000000/html-5.png) ![CSS Icon](https://img.icons8.com/color/48/000000/css3.png) ![JavaScript Icon](https://img.icons8.com/color/48/000000/javascript.png)
 
