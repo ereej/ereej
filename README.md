@@ -15,9 +15,13 @@
 
 ### SKILLS 💻
 - **Programming Languages:** 
-  <br> ![TypeScript Icon](https://img.icons8.com/color/48/000000/typescript.png) ![Python Icon](https://img.icons8.com/?size=100&id=13441&format=png&color=000000)
+  <br> ![TypeScript Icon](https://img.icons8.com/color/48/000000/typescript.png) ![Python Icon](https://img.icons8.com/?size=48&id=13441&format=png&color=000000)
+
 - **Frontend Development:** 
   <br> ![HTML Icon](https://img.icons8.com/color/48/000000/html-5.png) ![CSS Icon](https://img.icons8.com/color/48/000000/css3.png) ![JavaScript Icon](https://img.icons8.com/color/48/000000/javascript.png)
+
+- **Backend Development:** 
+  <br> ![HTML Icon](https://img.icons8.com/?size=48&id=TtXEs5SeYLG8&format=png&color=000000)
 
 - **Database:** 
   <br> ![MySQL Icon](https://img.icons8.com/color/48/000000/mysql-logo.png) ![SQL Icon](https://img.icons8.com/color/48/000000/database-restore.png)
