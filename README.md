@@ -1,3 +1,4 @@
+<html>
 <head>
   <title>Eri Github</title>
   <style>
@@ -84,4 +85,4 @@ ________________________________________________________________________________
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ereej&theme=catppuccin_mocha&no-frame=false&no-bg=true&margin-w=4)
 
-</body>
+</html>
