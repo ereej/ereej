@@ -61,9 +61,9 @@ ________________________________________________________________________________
 
 ## 📊 GitHub Stats
 
-<div style="display: flex; justify-content: space-between; width: 30%; height: 20%;">
-  <img src="https://github-readme-stats.vercel.app/api?username=ereej&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false&hide_title=true"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ereej&theme=catppuccin_mocha&hide_border=false"/>
+<div style="display: flex; justify-content: center; width: 60%; height: 300px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=ereej&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false&hide_title=true" width="100%" height="100%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ereej&theme=catppuccin_mocha&hide_border=false" width="100%" height="100%"/>
 </div>
 
 
