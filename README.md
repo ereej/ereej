@@ -45,6 +45,7 @@
 
 ____________________________________________________________________________________________________________________________________________________________
 
+<h3>📊 GitHub Stats</h3>
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
   <img src="https://github-readme-stats.vercel.app/api?username=ereej&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false" style="width: 49%; height: auto;" />
