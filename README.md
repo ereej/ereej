@@ -1,9 +1,9 @@
 <h1 align="center">Hi! I'm Eri~🍉 </h1>
 <h3 align="center">Junior Software Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ereej&label=Profile%20views&color=0e75b6&style=flat" alt="ereej" /> </p>
+[![](https://visitcount.itsvg.in/api?id=ereej&icon=4&color=12)](https://visitcount.itsvg.in)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ereej" alt="ereej" /></a></p>
+____________________________________________________________________________________________________________________________________________________________
   
 - 🌱 Currently learning **React and Webflow.**
 
@@ -51,5 +51,3 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ereej&theme=catppuccin_mocha&no-frame=false&no-bg=true&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=ereej&icon=4&color=12)](https://visitcount.itsvg.in)
