@@ -22,7 +22,7 @@
   <a href="https://discord.gg/ereej#8729" target="blank"><img alt="discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </p>
 
-<br>
+
 ## ☕️ Tech Stack
 <p>
   <img alt="javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
@@ -41,6 +41,7 @@
 <p>
 <img alt="mysql" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
+
 ## 💻 Vesion Control, Design and Other
 <p>
 <img alt="postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
