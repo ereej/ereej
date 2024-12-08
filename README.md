@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ereej&label=Profile%20views&color=0e75b6&style=flat" alt="ereej" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ereej" alt="ereej" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ereej" alt="ereej" /></a></p>
   
 - 🌱 Currently learning **React and Webflow.**
 
-- 📫 How to reach me? **ereej.tr@gmail.com**
-
 - ✨ Fun fact? **I love gaming, anime, manga, and music.**
 
-<h3 align="left">Socials:</h3>
+- 📫 How to reach me? **ereej.tr@gmail.com**
+
+<h3 align="left">or Socials:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/erij-tarhouni-bb0b151b2/" target="blank"><img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)"/></a>
   <a href="https://discord.gg/ereej#8729" target="blank"><img alt="discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
