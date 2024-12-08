@@ -10,10 +10,9 @@
 </p>
 
 🌱 Currently learning **React and Webflow.**
-
-✨ Fun fact? **I love gaming, anime, manga, and music.**
-
-📫 How to reach me? **ereej.tr@gmail.com**
+🎸 Hobbies: ** I love gaming, anime, manga, and music.**
+💭 Fun fact: ** I have a serious case of apiphobia! 🐝**
+📨 How to reach me: **ereej.tr@gmail.com**
 
 
 ## 💬 Socials
