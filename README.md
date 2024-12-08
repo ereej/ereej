@@ -3,7 +3,8 @@
 
 [![](https://visitcount.itsvg.in/api?id=ereej&icon=4&color=12)](https://visitcount.itsvg.in)
 
-![GitIcon](https://github.com/ereej/ereej/blob/fc0757566e8a552aefeba1910340844f57855090/git.gif)
+
+<img src="https://github.com/ereej/ereej/blob/fc0757566e8a552aefeba1910340844f57855090/git.gif"></>
   
 🌱 Currently learning **React and Webflow.**
 
