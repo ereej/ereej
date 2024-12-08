@@ -18,6 +18,7 @@
 </p>
 
 <h3 align="left">Tech Stack:</h3>
+<span style="background: ##D1C4E9">Programming Languages</span>
 <p>
   <img alt="javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   <img alt="typescript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
