@@ -1,35 +1,25 @@
-# Hello, welcome to my Github! 👋 I'm Erij 🚀💻
+<h1 align="center">Hi 👋, I'm Eri</h1>
+<h3 align="center">Junior Software Engineer</h3>
 
-<div style="text-align: center; background-color: #ffffff; padding: 20px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
- <!-- <img src="ery-banner-01.jpg" alt="Your Image Alt Text" style="width: 100%; border-radius: 8px;" /> -->
-</div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ereej&label=Profile%20views&color=0e75b6&style=flat" alt="ereej" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ereej" alt="ereej" /></a> </p>
 
-## Software Engineer 👩‍💻
+- 🌱 I’m currently learning **React and Webflow.**
 
+- 📫 How to reach me **email@gmail.com**
 
-### Work 💼
+- ⚡ Fun fact **I love gaming, anime, manga, and music.**
 
-👯 Excited to collaborate on open source projects! Particularly drawn to fun and challenging endeavors.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/erij-tarhouni-bb0b151b2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="erij-tarhouni-bb0b151b2/" height="30" width="40" /></a>
+<a href="https://discord.gg/ereej#8729" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ereej#8729" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-### SKILLS 💻
-- **Programming Languages:** 
-  <br> ![TypeScript Icon](https://img.icons8.com/color/48/000000/typescript.png) ![Python Icon](https://img.icons8.com/?size=48&id=13441&format=png&color=000000)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ereej&show_icons=true&locale=en&layout=compact" alt="ereej" /></p>
 
-- **Frontend Development:** 
-  <br> ![HTML Icon](https://img.icons8.com/color/48/000000/html-5.png) ![CSS Icon](https://img.icons8.com/color/48/000000/css3.png) ![JavaScript Icon](https://img.icons8.com/color/48/000000/javascript.png)
-
-- **Backend Development:** 
-  <br> ![HTML Icon](https://img.icons8.com/?size=48&id=TtXEs5SeYLG8&format=png&color=000000)
-
-- **Database:** 
-  <br> ![MySQL Icon](https://img.icons8.com/color/48/000000/mysql-logo.png) ![SQL Icon](https://img.icons8.com/color/48/000000/database-restore.png)
-
-### SOCIAL 🌐
-[![GitHub Icon](https://img.icons8.com/color/24/000000/github.png)](https://github.com/ereej "Github username: ereej")&ensp;
-[![LinkedIn Icon](https://img.icons8.com/color/24/000000/linkedin.png)](https://linkedin.com/in/erij-tarhouni-bb0b151b2 "LinkedIn profile")&ensp;
-[![Discord Icon](https://img.icons8.com/color/24/000000/discord.png)](ereej#8729 "ereej#8729")
-<br><br>
-
-<!-- > 🌌 Unlocking the digital universe, one keystroke at a time! Let's embark on a coding odyssey together, where bugs are mythical creatures and merges dance in harmony. Connect with me, fellow coder, and let's script some digital magic! 🚀✨ -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ereej&show_icons=true&locale=en" alt="ereej" /></p>
