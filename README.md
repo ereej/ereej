@@ -1,10 +1,10 @@
 <h1 align="center">Hi! I'm Eri~🍉 </h1>
 <h3 align="center">Junior Software Engineer</h3>
 
+<img width="100px" height="100px" src="https://github.com/ereej/ereej/blob/fc0757566e8a552aefeba1910340844f57855090/git.gif">
+
 [![](https://visitcount.itsvg.in/api?id=ereej&icon=4&color=12)](https://visitcount.itsvg.in)
 
-
-<img width="100px" height="100px" src="https://github.com/ereej/ereej/blob/fc0757566e8a552aefeba1910340844f57855090/git.gif">
   
 🌱 Currently learning **React and Webflow.**
 
