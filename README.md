@@ -45,11 +45,11 @@
 
 ____________________________________________________________________________________________________________________________________________________________
 
-<h3>📊 GitHub Stats</h3>
+## 📊 GitHub Stats
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=ereej&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false" style="width: 49%; height: auto;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ereej&theme=catppuccin_mocha&hide_border=false" style="width: 49%; height: auto;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ereej&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false" style="height: 200px; width: auto;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ereej&theme=catppuccin_mocha&hide_border=false" style="height: 200px; width: auto;" />
 </div>
 
 
