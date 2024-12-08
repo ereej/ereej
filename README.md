@@ -12,7 +12,7 @@
 </p>
 
 
-[![](https://visitcount.itsvg.in/api?id=ereej&icon=4&color=12)](https://visitcount.itsvg.in)
+
 
   
 🌱 Currently learning **React and Webflow.**
