@@ -1,24 +1,8 @@
-<html>
-<head>
-  <title>Eri Github</title>
-  <style>
-    body {
-      font-family: 'Poppins', sans-serif;
-      line-height: 1.6;
-      margin: 0;
-      padding: 20px;
-    }
-    h1, h2, h3 {
-      font-weight: 600;
-    }
-  </style>
-</head>
 
-<body>
 <a href="https://visitcount.itsvg.in">
     <img style="vertical-align: middle" src="https://visitcount.itsvg.in/api?id=ereej&icon=4&color=12" alt="Profile Views">
 </a>
-  <h1 align="center" style="lfont: 4;">Hi! I'm Eri ~ 🍉</h1>
+  <h1 align="center" style="font-family: Poppins;">Hi! I'm Eri ~ 🍉</h1>
 
 
 
@@ -84,5 +68,3 @@ ________________________________________________________________________________
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ereej&theme=catppuccin_mocha&no-frame=false&no-bg=true&margin-w=4)
-
-</html>
