@@ -3,7 +3,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=ereej&icon=4&color=12)](https://visitcount.itsvg.in)
 
-![Banner](https://github.com/ereej/ereej/blob/4194710b1545c955bfeba8ea62f0f8a1f39d22f7/banner-01.jpg)
+![GitIcon](https://github.com/ereej/ereej/blob/fc0757566e8a552aefeba1910340844f57855090/git.gif)
   
 🌱 Currently learning **React and Webflow.**
 
