@@ -1,5 +1,5 @@
 <h1 align="center">Hi! I'm Eri ~ 🍉 </h1>
-<div>
+<div style="display: block">
     <a href="https://visitcount.itsvg.in" style="float: left;">
       <img src="https://visitcount.itsvg.in/api?id=ereej&icon=4&color=12" alt="Profile Views">
     </a>
