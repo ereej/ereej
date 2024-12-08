@@ -1,7 +1,7 @@
 <h1 align="center">Hi! I'm Eri~🍉 </h1>
 <h3 align="center">Junior Software Engineer</h3>
 
-<span align="left"> <img src="https://visitcount.itsvg.in/api?id=ereej&icon=4&color=12)](https://visitcount.itsvg.in"></> </span>
+![Banner](https://github.com/ereej/ereej/blob/4194710b1545c955bfeba8ea62f0f8a1f39d22f7/banner-01.jpg)
   
 - 🌱 Currently learning **React and Webflow.**
 
