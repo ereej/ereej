@@ -1,10 +1,11 @@
 <h1 align="center">Hi! I'm Eri ~ 🍉 </h1>
-<div style="display: block">
-    <a href="https://visitcount.itsvg.in" style="float: left;">
+ <a href="https://visitcount.itsvg.in" style="float: left;">
       <img src="https://visitcount.itsvg.in/api?id=ereej&icon=4&color=12" alt="Profile Views">
     </a>
+
+   
   <h3 align="center">Junior Software Engineer</h3>
-</div>
+
 
 
 <p align="center">
