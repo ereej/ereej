@@ -1,7 +1,7 @@
 <h1 align="center">Hi! I'm Eri~🍉 </h1>
 <h3 align="center">Junior Software Engineer</h3>
 
-<span align="left"> [![](https://visitcount.itsvg.in/api?id=ereej&icon=4&color=12)](https://visitcount.itsvg.in) </span>
+<span align="left"> <img src="https://visitcount.itsvg.in/api?id=ereej&icon=4&color=12)](https://visitcount.itsvg.in"></> </span>
   
 - 🌱 Currently learning **React and Webflow.**
 
@@ -43,12 +43,13 @@
 
 ____________________________________________________________________________________________________________________________________________________________
 
-
-<h3 align="left"> 📊 GitHub Stats</h3>
+# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ereej&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ereej&theme=catppuccin_mocha&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ereej&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<h3 align="left"> 🏆 GitHub Trophies</h3>
+## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ereej&theme=catppuccin_mocha&no-frame=false&no-bg=true&margin-w=4)
 
+---
+[![](https://visitcount.itsvg.in/api?id=ereej&icon=4&color=12)](https://visitcount.itsvg.in)
