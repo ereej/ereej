@@ -1,9 +1,8 @@
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=ereej&icon=4&color=12" alt="Profile Views">
+    <img style="vertical-align: middle" src="https://visitcount.itsvg.in/api?id=ereej&icon=4&color=12" alt="Profile Views">
   </a>
-  <h1 style="margin: 0 auto;">Hi! I'm len ~ 🍉</h1>
-  <div></div> <!-- Placeholder to balance flex layout -->
+  <h1 style="margin: 0 auto;">Hi! I'm Eri ~ 🍉</h1>
 </div>
 
 
