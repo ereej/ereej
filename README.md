@@ -1,5 +1,10 @@
 <h1 align="center">Hi! I'm Eri ~ 🍉 </h1>
-<h3 align="center">Junior Software Engineer</h3>
+<h3 align="center">
+  Junior Software Engineer
+  <a href="https://visitcount.itsvg.in" style="float: left;">
+    <img src="https://visitcount.itsvg.in/api?id=ereej&icon=4&color=12" alt="Profile Views">
+  </a>
+</h3>
 
 <p align="center">
   <img width="150px" height="150px" src="https://github.com/ereej/ereej/blob/fc0757566e8a552aefeba1910340844f57855090/git.gif">
