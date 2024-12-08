@@ -1,6 +1,8 @@
 <h1 align="center">Hi! I'm Eri~🍉 </h1>
 <h3 align="center">Junior Software Engineer</h3>
 
+[![](https://visitcount.itsvg.in/api?id=ereej&icon=4&color=12)](https://visitcount.itsvg.in)
+
 ![Banner](https://github.com/ereej/ereej/blob/4194710b1545c955bfeba8ea62f0f8a1f39d22f7/banner-01.jpg)
   
 - 🌱 Currently learning **React and Webflow.**
@@ -46,10 +48,7 @@ ________________________________________________________________________________
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ereej&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ereej&theme=catppuccin_mocha&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ereej&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ereej&theme=catppuccin_mocha&no-frame=false&no-bg=true&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=ereej&icon=4&color=12)](https://visitcount.itsvg.in)
