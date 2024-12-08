@@ -1,7 +1,7 @@
 <a href="https://visitcount.itsvg.in">
     <img style="vertical-align: middle" src="https://visitcount.itsvg.in/api?id=ereej&icon=4&color=12" alt="Profile Views">
 </a>
-  <h1 align="center" style="margin: 0 auto; line-height: 4;">Hi! I'm Eri ~ 🍉</h1>
+  <h1 align="center" style="line-height: 4;">Hi! I'm Eri ~ 🍉</h1>
 
 
 
