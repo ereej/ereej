@@ -5,13 +5,13 @@
 
 ![Banner](https://github.com/ereej/ereej/blob/4194710b1545c955bfeba8ea62f0f8a1f39d22f7/banner-01.jpg)
   
-- 🌱 Currently learning **React and Webflow.**
+🌱 Currently learning **React and Webflow.**
 
-- ✨ Fun fact? **I love gaming, anime, manga, and music.**
+✨ Fun fact? **I love gaming, anime, manga, and music.**
 
-- 📫 How to reach me? **ereej.tr@gmail.com**
+📫 How to reach me? **ereej.tr@gmail.com**
 
-<h3 align="left">Socials:</h3>
+<h3 align="left">Socials</h3>
 <p align="left">
   <a href="https://linkedin.com/in/erij-tarhouni-bb0b151b2/" target="blank"><img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)"/></a>
   <a href="https://discord.gg/ereej#8729" target="blank"><img alt="discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
