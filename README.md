@@ -1,8 +1,8 @@
 <h1 align="center">Hi! I'm Eri ~ 🍉 </h1>
 <h3 align="center">Junior Software Engineer</h3>
 
-<p align="right">
-  <img width="100px" height="100px" src="https://github.com/ereej/ereej/blob/fc0757566e8a552aefeba1910340844f57855090/git.gif">
+<p align="center">
+  <img width="150px" height="150px" src="https://github.com/ereej/ereej/blob/fc0757566e8a552aefeba1910340844f57855090/git.gif">
 </p>
 
 
