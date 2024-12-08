@@ -2,8 +2,10 @@
   <a href="https://visitcount.itsvg.in">
     <img src="https://visitcount.itsvg.in/api?id=ereej&icon=4&color=12" alt="Profile Views">
   </a>
-  <h1 style="margin: 0; text-align: center; flex: 1;">Hi! I'm Eri ~ 🍉</h1>
+  <h1 style="margin: 0 auto;">Hi! I'm len ~ 🍉</h1>
+  <div></div> <!-- Placeholder to balance flex layout -->
 </div>
+
 
 
 
