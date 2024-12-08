@@ -46,8 +46,11 @@
 ____________________________________________________________________________________________________________________________________________________________
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ereej&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ereej&theme=catppuccin_mocha&hide_border=false)<br/>
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=ereej&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false" style="width: 49%; height: auto;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ereej&theme=catppuccin_mocha&hide_border=false" style="width: 49%; height: auto;" />
+</div>
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ereej&theme=catppuccin_mocha&no-frame=false&no-bg=true&margin-w=4)
