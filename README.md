@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Eri</h1>
+<h1 align="center">Hi 👋, I'm Eri~ </h1>
 <h3 align="center">Junior Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ereej&label=Profile%20views&color=0e75b6&style=flat" alt="ereej" /> </p>
@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **React and Webflow.**
 
-- 📫 How to reach me **email@gmail.com**
+- 📫 How to reach me **ereej.tr@gmail.com**
 
-- ⚡ Fun fact **I love gaming, anime, manga, and music.**
+- ⚡ Fun fact? **I love gaming, anime, manga, and music.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
