@@ -1,30 +1,21 @@
-
 <a href="https://visitcount.itsvg.in">
     <img style="vertical-align: middle" src="https://visitcount.itsvg.in/api?id=ereej&icon=4&color=12" alt="Profile Views">
 </a>
-  <h1 align="center" style="font-family: Playfair Display;">Hi! I'm Eri ~ 🍉</h1>
-
-
+<h1 align="center" style="font-family: Playfair Display;">Hi! I'm Eri ~ 🍉</h1>
 
 <h3 align="center">Junior Software Engineer</h3>
-
-
 
 <p align="center">
   <img width="150px" height="150px" src="https://github.com/ereej/ereej/blob/fc0757566e8a552aefeba1910340844f57855090/git.gif">
 </p>
 
-
-
-
-  
 🌱 Currently learning **React and Webflow.**
 
 ✨ Fun fact? **I love gaming, anime, manga, and music.**
 
 📫 How to reach me? **ereej.tr@gmail.com**
 
-<h3 align="left">Socials</h3>
+## 💬 Socials
 <p align="left">
   <a href="https://linkedin.com/in/erij-tarhouni-bb0b151b2/" target="blank"><img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)"/></a>
   <a href="https://discord.gg/ereej#8729" target="blank"><img alt="discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
