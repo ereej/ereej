@@ -53,8 +53,6 @@
 </p>
 
 ## 🎨 Design Portfolio
-<a href="https://dribbble.com/Ery_y" target="_blank" style="display: inline-flex; align-items: center; text-decoration: none; color: inherit;">
-  <i class="fab fa-dribbble"></i>
-</a>
+[![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?logo=dribbble&logoColor=white)]([https://github.com/yourusername](https://dribbble.com/Ery_y))
 
 </br>
