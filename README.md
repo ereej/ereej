@@ -54,7 +54,7 @@
 
 ## 🎨 Design Portfolio
 
-<a style="display: inline-flex; align-items: center; text-decoration: none;">
+<a style="display: inline-block;">
   <img src="https://img.shields.io/badge/Dribbble-EA4C89?logo=dribbble&logoColor=white" alt="Dribbble Badge" style="margin-right: 8px;">
   <span style="color: #EA4C89; font-weight: bold;">@Ery_y</span>
 </a>
