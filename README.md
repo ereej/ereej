@@ -52,4 +52,8 @@
 <img alt="gitlab" src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/>
 </p>
 
+## 🎨 Design Portfolio
+<img alt="dribble" src="https://img.shields.io/badge/Dribbble-EA4C89&logo=dribbble&logoColor=white"/>
+https://dribbble.com/Ery_y
+
 </br>
