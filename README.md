@@ -6,7 +6,7 @@
   <img width="150px" height="150px" src="https://github.com/ereej/ereej/blob/fc0757566e8a552aefeba1910340844f57855090/git.gif">
 </p>
 
-🌱 Currently learning **React.**
+🌱 A bit about me~
 
 🎸 Hobbies: **I love gaming, anime, manga, and music.**
 
