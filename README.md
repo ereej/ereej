@@ -8,9 +8,9 @@
 
 🌱 A bit about me~
 
-🎸 Hobbies: **I love gaming, anime, manga, and music.**
+> Hobbies: **I love gaming, anime, manga, and music.**
 
-💭 Fun fact: **I have a serious case of apiphobia! 🐝**
+> Fun fact: **I have a serious case of apiphobia! 🐝**
 
 📨 How to reach me: **ereej.tr@gmail.com**
 
