@@ -53,9 +53,9 @@
 </p>
 
 ## 🎨 Design Portfolio
-<p style="display:inline-block;">
-  <img alt="dribble" src="https://img.shields.io/badge/Dribbble-EA4C89&logo=dribbble&logoColor=white"/>
-  https://dribbble.com/Ery_y
-</p>
+<a href="https://dribbble.com/Ery_y" target="_blank" style="display: inline-flex; align-items: center; text-decoration: none; background-color: #EA4C89; color: white; padding: 6px 12px; border-radius: 6px; font-family: sans-serif; font-weight: 500;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dribbble/dribbble-original.svg" alt="Dribbble" style="width: 20px; height: 20px; margin-right: 8px;">
+  Dribbble
+</a>
 
 </br>
