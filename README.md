@@ -8,7 +8,7 @@
 
 🌱 A bit about me~
 
-> Hobbies: **Gaming, Anime, Manga, and Music (Learning Electric Guitar).**
+> Hobbies: **Gaming, Anime, Manga, and Music (Learning Electric Guitar 🎸).**
 
 > Fun fact: **I have a serious case of apiphobia! 🐝**
 
