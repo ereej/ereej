@@ -1,15 +1,12 @@
-<a href="https://visitcount.itsvg.in">
-    <img style="vertical-align: middle" src="https://visitcount.itsvg.in/api?id=ereej&icon=4&color=12" alt="Profile Views">
-</a>
 <h1 align="center" style="font-family: Playfair Display;">Hi! I'm Eri ~ </h1>
 
-<h3 align="center">Junior Software Engineer</h3>
+<h3 align="center">Software Engineer</h3>
 
 <p align="center">
   <img width="150px" height="150px" src="https://github.com/ereej/ereej/blob/fc0757566e8a552aefeba1910340844f57855090/git.gif">
 </p>
 
-🌱 Currently learning **React and Webflow.**
+🌱 Currently learning **React.**
 
 🎸 Hobbies: **I love gaming, anime, manga, and music.**
 
@@ -40,7 +37,6 @@
   <img alt="react" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
   <img alt="nodejs" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img alt="flask" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img alt="ionic" src="https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white"/>
 </p>
 <p>
 <img alt="mysql" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
