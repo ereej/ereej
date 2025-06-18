@@ -56,7 +56,7 @@
 
 <p style="display: inline-block;">
   <img src="https://img.shields.io/badge/Dribbble-EA4C89?logo=dribbble&logoColor=white" alt="Dribbble Badge" style="margin-right: 10px;">
-  <span style="margin-bottom: 6px;">@Ery_y</span>
+  <span style="margin-bottom: -6px;">@Ery_y</span>
 </p>
 
 
