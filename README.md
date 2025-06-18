@@ -53,7 +53,7 @@
 </p>
 
 ## 🎨 Design Portfolio
-<a href="https://dribbble.com/Ery_y">
+<a href="https://github.com/yourusername">
   <img src="https://img.shields.io/badge/Dribbble-EA4C89?logo=dribbble&logoColor=white" alt="Dribbble Badge">
 </a>
 
