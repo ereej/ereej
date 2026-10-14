@@ -55,7 +55,8 @@
 </p>
 
 ## 🎨 Portfolio (ポートフォリオ)
-<a href="https://ereej.github.io/STB_dashboard" target="blank"><img src="https://img.shields.io/badge/Dribbble-EA4C89?logo=dribbble&logoColor=white" alt="Dribbble Badge"></a>
+<a href="https://dribbble.com/Ery_y" target="blank"><img src="https://img.shields.io/badge/Dribbble-EA4C89?logo=dribbble&logoColor=white" alt="Dribbble Badge"></a></br>
+
 <a href="https://ereej.github.io/STB_dashboard" target="blank">Data Analytics Project データ分析プロジェクト</a>
 
 </br>
