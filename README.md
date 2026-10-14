@@ -1,6 +1,8 @@
 <h1 align="center" style="font-family: Playfair Display;">Hi! I'm Eri ~ </h1>
 
-<h3 align="center">Software Engineer</h3>
+<h3 align="center">Software Engineer with a Master in Business & Management</h3>
+<h2 align="center">ビジネス・マネジメントの修士号を持つソフトウェアエンジニア</h2>
+
 
 <p align="center">
   <img width="150px" height="150px" src="https://github.com/ereej/ereej/blob/fc0757566e8a552aefeba1910340844f57855090/git.gif">
@@ -8,15 +10,15 @@
 
 🌱 A bit about me~
 
-> Hobbies: **Gaming, Anime, Manga, and Music (Learning Electric Guitar 🎸).**
+> Hobbies: **Gaming, TV Shows and movies, Music and sports.**
+> 趣味：**ゲーム、テレビ番組・映画、音楽、スポーツ**
 
-> Fun fact: **I have a serious case of apiphobia! 🐝**
-
-📨 How to reach me: **ereej.tr@gmail.com**
+> Fun fact: **I have a serious case of apiphobia! 🐝
+> 豆知識：**私はハチがとても苦手です！🐝**
 
 </br>
 
-## 💬 Socials
+## 💬 Socials (SNS)
 <p align="left">
   <a href="https://linkedin.com/in/erij-tarhouni-bb0b151b2/" target="blank"><img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)"/></a>
   <a href="https://discord.gg/ereej#8729" target="blank"><img alt="discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
@@ -24,7 +26,7 @@
 
 </br>
 
-## ☕️ Tech Stack
+## ☕️ Tech Stack (技術スタック)
 <p>
   <img alt="javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   <img alt="typescript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -44,7 +46,7 @@
 
 </br>
 
-## 💻 Vesion Control, Design and Other
+## 💻 Vesion Control, Design and Other (バージョン管理・デザイン・その他)
 <p>
 <img alt="postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 <img alt="figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
@@ -52,9 +54,11 @@
 <img alt="gitlab" src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/>
 </p>
 
-## 🎨 Design Portfolio
+## 🎨 Portfolio (ポートフォリオ)
 
 <img src="https://img.shields.io/badge/Dribbble-EA4C89?logo=dribbble&logoColor=white" alt="Dribbble Badge">
 <span>@Ery_y</span>
+
+  <a href="[https://discord.gg/ereej#8729](https://ereej.github.io/STB_dashboard/)" target="blank">Data Analytics Project データ分析プロジェクト</a>
 
 </br>
