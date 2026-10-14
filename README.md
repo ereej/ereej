@@ -59,6 +59,6 @@
 <img src="https://img.shields.io/badge/Dribbble-EA4C89?logo=dribbble&logoColor=white" alt="Dribbble Badge">
 <span>@Ery_y</span>
 
-  <a href="[https://discord.gg/ereej#8729](https://ereej.github.io/STB_dashboard/)" target="blank">Data Analytics Project データ分析プロジェクト</a>
+  <a href="https://ereej.github.io/STB_dashboard" target="blank">Data Analytics Project データ分析プロジェクト</a>
 
 </br>
